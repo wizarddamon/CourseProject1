@@ -17,16 +17,10 @@ The goal is to develop a machine learning-based pipeline to classify stars, gala
 - Confusion matrix for performance breakdown.
 - Synthetic data used in this version for visualization demo.
 
-## Outputs
-- Composite visualization saved as `stellar_analysis_report.png`.
-
 ## Potential Improvements
 - Integrate actual trained model predictions.
 - Enhance UI/UX using interactive visualization (e.g., Plotly).
 - Expand redshift and plate analysis with real-world data insights.
 
-## Files
-- `visualizer.py`: Contains the `StellarVisualizer` class with all visualization logic.
-- `star_classification.csv`: Raw dataset used for processing and analysis.
 
 
